@@ -1,0 +1,3 @@
+--2.1
+SELECT SUM(s)
+FROM S;
