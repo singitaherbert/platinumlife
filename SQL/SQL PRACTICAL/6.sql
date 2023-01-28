@@ -1,6 +1,5 @@
 --Question 6
-
-
-use vicidial
-go
-select * from users;
+USE vicidial
+GO
+select *
+from users;
